@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Dj Ferchi</title>
+    <link href="http://djferchi.com/feed.xml" rel="self" />
+    <link href="http://djferchi.com" />
+    <updated>2019-08-11T08:32:37-04:00</updated>
+    <author>
+        <name>Geog</name>
+    </author>
+    <id>http://djferchi.com</id>
+
+    <entry>
+        <title>Eletronic Press kit</title>
+        <author>
+            <name>Geog</name>
+        </author>
+        <link href="http://djferchi.com/eletronic-press-kit.html"/>
+        <id>http://djferchi.com/eletronic-press-kit.html</id>
+
+        <updated>2019-08-10T23:58:51-04:00</updated>
+            <summary>
+                <![CDATA[
+                    4000 W. Sound system
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                4000 W. Sound system
+            ]]>
+        </content>
+    </entry>
+</feed>

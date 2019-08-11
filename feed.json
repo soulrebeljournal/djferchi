@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Dj Ferchi",
+    "description": "",
+    "home_page_url": "http://djferchi.com",
+    "feed_url": "http://djferchi.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Geog"
+    },
+    "items": [
+        {
+            "id": "http://djferchi.com/eletronic-press-kit.html",
+            "url": "http://djferchi.com/eletronic-press-kit.html",
+            "title": "Eletronic Press kit",
+            "summary": "4000 W. Sound system",
+            "content_html": "4000 W. Sound system",
+            "author": {
+                "name": "Geog"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-08-10T23:58:51-04:00",
+            "date_modified": "2019-08-10T23:58:51-04:00"
+        }
+    ]
+}
